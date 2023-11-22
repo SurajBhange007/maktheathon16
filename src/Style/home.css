@@ -1,0 +1,12 @@
+.home-wrapper {
+    padding: 0px 10px 20px 10px;
+    display: -webkit-inline-flex;
+    width: -webkit-fill-available;
+    gap: 20px;
+    .flex-item-2, .flex-item-1 {
+        width: 50%;
+    }
+    .flex-item-2 {
+        width: -webkit-fill-available;
+    }
+}
